@@ -1,0 +1,68 @@
+/* Empty. Add your own CSS if you like */
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	background-color: #ecf0f1;
+	color: #34495e;
+}
+.logo{
+	width: 50%;
+}
+h1 {
+    color: #2980b9	;
+    /*text-shadow: 0 1px 0px #000;*/
+    font-size: 42px;
+    text-align: center;
+}
+.cuerpo{
+	background-color: #ecf0f1;
+	color: #7f8c8d;
+}
+.header-bar{
+	background-color: red;
+}
+
+.facebook{
+	margin-top: 20px;
+}
+.item-header{
+	background-color: #3498db;
+	color: #FFF;
+}
+.item-resultados{
+	background-color: #3498db;
+	color: #FFF;
+}
+.distancia{
+	background-color: #1abc9c;
+	text-align: center;
+	font-size: 18px;
+	color: #FFF;
+	padding: 10px;
+}
+
+.info{
+	vertical-align:top;
+}
+.cuadro{
+	margin-bottom: 10px;
+}
+
+.logo-empresa{
+	border: 1px #bdc3c7 dashed;
+	margin-right: 10px;
+}
+.logo-empresa img{
+	width: 100%;
+}
+.nombre-empresa{
+	color: #2980b9;
+	font-weight: bold;
+}
+.valor{
+	background-color: #2ecc71;
+	color: #FFF;
+	padding: 2px;
+	font-weight: bold;
+	font-size: 16px;
+}
